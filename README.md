@@ -49,10 +49,10 @@ Final reconciliation was completed.
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/420a776bbac5f24b7a102945b4cd7e8ffb44b56a/03_Office_Supplies_1500.png)
 
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/1c4c648198971ba976abf14dc332402936bb23ec/04_Electricity_Expense_1200.png)
-![image alt]
-![image alt]
-![image alt]
-![image alt]
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/cd9c9fe932822b4b7d695101ff3afaf3688ce912/05_Rahul_4000_Receipt.png)
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/cd9c9fe932822b4b7d695101ff3afaf3688ce912/06_Internet_Expense_800.png)
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/cd9c9fe932822b4b7d695101ff3afaf3688ce912/07_Rahul_3500_Receipt.png)
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/cd9c9fe932822b4b7d695101ff3afaf3688ce912/08_Office_Supplies_900.png)
 ![image alt]
 ![image alt]
 ![image alt]
