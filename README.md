@@ -44,5 +44,5 @@ Final reconciliation was completed.
 
 ### Voucher Entry
 ![Voucher]
-![image alt]()
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/f757fd07c04da418305a12afb6d9c6aef15aecb5/01_Rahul_5000_Receipt.png)
 
