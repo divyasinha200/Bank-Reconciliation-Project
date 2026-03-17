@@ -48,3 +48,16 @@ Final reconciliation was completed.
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/5fac6d01aa08b746ead5b404dce969eb2bbed059/02_Rent_Expense_3000.png)
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/420a776bbac5f24b7a102945b4cd7e8ffb44b56a/03_Office_Supplies_1500.png)
 
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/1c4c648198971ba976abf14dc332402936bb23ec/04_Electricity_Expense_1200.png)
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
+![image alt]
