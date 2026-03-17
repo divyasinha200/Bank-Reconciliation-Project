@@ -46,3 +46,5 @@ Final reconciliation was completed.
 ![Voucher]
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/f757fd07c04da418305a12afb6d9c6aef15aecb5/01_Rahul_5000_Receipt.png)
 ![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/5fac6d01aa08b746ead5b404dce969eb2bbed059/02_Rent_Expense_3000.png)
+![image alt](https://github.com/divyasinha200/Bank-Reconciliation-Project/blob/420a776bbac5f24b7a102945b4cd7e8ffb44b56a/03_Office_Supplies_1500.png)
+
